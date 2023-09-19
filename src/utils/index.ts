@@ -1,0 +1,1 @@
+export { getMonthNameByIndex } from './month';
